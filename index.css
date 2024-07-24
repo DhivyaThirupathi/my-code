@@ -1,0 +1,70 @@
+
+.navbar{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%; 
+    box-sizing: border-box;
+     padding: 0px 10px 0px 10px; 
+}
+.navbardiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    height: 0px;
+    width: 0px;
+    size: 2px;
+}
+
+li{
+    display: inline-block;
+}
+li a{
+    text-decoration: none;
+    list-style: none;
+    padding: 20px 20px;
+    color: rgb(245, 235, 235);
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style:italic;
+}  
+li a:hover{
+    color:rgb(58, 59, 59);
+}
+body
+{
+background-color: rgb(14, 13, 13);
+}
+.para{
+    margin-left: 8%;
+    margin-top: 10%;
+}
+.para h1
+{
+    font-size: 40px;
+color: aliceblue;
+}
+span{
+    color: rgb(15, 15, 15);
+    text-shadow: 0px 0px 2px white;
+}
+p{
+    color: aqua;
+    font-size: 30px;
+    text-shadow: 0px 0px 3px;
+}
+
+.fa-instagram{
+    font-size: 30px;
+    color: rgb(240, 111, 165);
+}
+.fa-whatsapp
+{
+    font-size: 30px;
+    color: rgb(11, 179, 11);
+}
+.fa-square-github{
+    font-size: 30px;
+    color: aliceblue;
+}
